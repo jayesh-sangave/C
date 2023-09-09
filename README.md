@@ -42,13 +42,15 @@ The C variables can be classified into the following types:
 5. Extern Variables
 6. Register Variables
 
-## Constants in C:
+# Constants in C:
 The constants in C are the read-only variables whose values cannot be modified once they are declared in the C program.
-<br>
-Types of Constants in C:
+## Types of Constants in C:
 1. Integer Constant
 2. Character Constant
 3. Floating Point Constant
 4. Double Precision Floating Point Constant
 5. Array Constant
 6. Structure Constant
+## Properties of constants:
+1. Initialisation with declaration
+2. Immutability
