@@ -1,10 +1,10 @@
 # What is C?
 C is a general-purpose, procedural, high-level programming language
 # Inside the compiling process
-## 1.Pre-processing
-## 2.Compilation
-## 3.Assembly
-## 4.Linking
+1. Pre-processing
+2. Compilation
+3. Assembly
+4. Linking
 
 # Comments
 single line Comments : //
@@ -12,12 +12,12 @@ single line Comments : //
 multiline Comments : /* ...multiple lines... */
 
 # Tokens in C
-## 1.Keywords
-## 2.Identifiers
-## 3.Constants
-## 4.Strings
-## 5.Special Symbols
-## 6.Operators
+1. Keywords
+2. Identifiers
+3. Constants
+4. Strings
+5. Special Symbols
+6. Operators
 
 # Variables in C
 1. data_type variable_name = value;    // defining single variable
@@ -26,3 +26,19 @@ multiline Comments : /* ...multiple lines... */
 1. Variable Declaration
 2. Variable Definition
 3. Variable Initialization
+## Rules for Naming Variables in C
+You can assign any name to the variable as long as it follows the following rules:
+
+1. A variable name must only contain alphabets, digits, and underscore.
+2. A variable name must start with an alphabet or an underscore only. It cannot start with a digit.
+3. No whitespace is allowed within the variable name.
+4. A variable name must not be any reserved word or keyword.
+## C Variable Types
+The C variables can be classified into the following types:
+
+1. Local Variables
+2. Global Variables
+3. Static Variables
+4. Automatic Variables
+5. Extern Variables
+6. Register Variables
