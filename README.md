@@ -22,3 +22,7 @@ multiline Comments : /* ...multiple lines... */
 # Variables in C
 1. data_type variable_name = value;    // defining single variable
 2. data_type variable_name1, variable_name2;    // defining multiple variable
+## There are 3 aspects of defining a variable:
+1. Variable Declaration
+2. Variable Definition
+3. Variable Initialization
