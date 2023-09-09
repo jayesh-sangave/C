@@ -35,10 +35,20 @@ You can assign any name to the variable as long as it follows the following rule
 4. A variable name must not be any reserved word or keyword.
 ## C Variable Types
 The C variables can be classified into the following types:
-
 1. Local Variables
 2. Global Variables
 3. Static Variables
 4. Automatic Variables
 5. Extern Variables
 6. Register Variables
+
+## Constants in C:
+The constants in C are the read-only variables whose values cannot be modified once they are declared in the C program.
+<br>
+Types of Constants in C:
+1. Integer Constant
+2. Character Constant
+3. Floating Point Constant
+4. Double Precision Floating Point Constant
+5. Array Constant
+6. Structure Constant
